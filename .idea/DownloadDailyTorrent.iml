@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/perl5/lib/perl5/5.24.1/darwin-thread-multi-2level" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$USER_HOME$/perl5/lib/perl5/5.24.1/darwin-thread-multi-2level" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/perl5/lib/perl5/5.24.1" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$USER_HOME$/perl5/lib/perl5/5.24.1" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/perl5/lib/perl5/darwin-thread-multi-2level" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$USER_HOME$/perl5/lib/perl5/darwin-thread-multi-2level" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/perl5/lib/perl5" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$USER_HOME$/perl5/lib/perl5" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file:///usr/local/Cellar/perl/5.24.1/lib/perl5/5.24.1/darwin-thread-multi-2level" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/local/Cellar/perl/5.24.1/lib/perl5/5.24.1/darwin-thread-multi-2level" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file:///usr/local/Cellar/perl/5.24.1/lib/perl5/5.24.1" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/local/Cellar/perl/5.24.1/lib/perl5/5.24.1" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
