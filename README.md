@@ -25,9 +25,9 @@ chown root:root /etc/ddt/
 mv download_daily_torrent.pl /usr/local/bin/
 chown root:staff /usr/local/bin/download_daily_torrent.pl
 chmod 755 /usr/local/bin/download_daily_torrent.pl
-mv download_daily_torrent.conf /etc/ddt/
-chown root:root /etc/ddt/download_daily_torrent.conf
-chmod 644 /etc/ddt/download_daily_torrent.conf
+mv download_daily_torrent.ini /etc/ddt/
+chown root:root /etc/ddt/download_daily_torrent.ini
+chmod 644 /etc/ddt/download_daily_torrent.ini
 ```
 
 ## Execution
@@ -38,7 +38,7 @@ DownloadDailyTorrent can simply be run by this command:
 download_daily_torrent.pl --download-path "<Deluge watch folder>"
 ```
 
-By default, DownloadDailyTorrent read the configuration file in "/etc/ddt/download\_daily\_torrent.conf”. If you haven’t copy the configuration file in this directory, you can pass it with the argument "--config" :
+By default, DownloadDailyTorrent read the configuration file in "/etc/ddt/download\_daily\_torrent.ini”. If you haven’t copy the configuration file in this directory, you can pass it with the argument "--config" :
 
 ```sh
 download_daily_torrent.pl --download-path "<Deluge watch folder>" --config "<Path the configuration file>"
